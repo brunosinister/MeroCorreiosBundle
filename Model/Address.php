@@ -86,7 +86,7 @@ class Address
     }
 
     /**
-     * Returns zip code.
+     * Returns the zip code.
      *
      * @return string Zip code
      */
